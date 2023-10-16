@@ -129,7 +129,4 @@ stemmer.delete_prefix('prefix_to_delete') # Similar to delete_suffix() but for p
 &nbsp;
 &nbsp;
 
-# TODO:
-- Improve the POS Tagger performance
-- Create a morphological tokenizer
-- Create a Sentiment Analyser
+
